@@ -1,0 +1,8 @@
+{
+  "name": "DripOut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a3f3531f"
+}
